@@ -1,2 +1,2 @@
 # Thought-O-Nator
-A python application to generate thoght experiments.
+A python application to generate thought experiments.
